@@ -1,0 +1,4 @@
+"GET /api/some-endpoint/ HTTP/1.1" 500 59
+"GET /api/some-endpoint/ HTTP/1.1" 500 59
+"GET /api/some-endpoint/ HTTP/1.1" 500 59
+"GET / HTTP/1.1" 500 59
